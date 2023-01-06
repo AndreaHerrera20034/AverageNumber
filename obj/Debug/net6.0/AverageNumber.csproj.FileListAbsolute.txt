@@ -1,0 +1,15 @@
+C:\Users\ANDREA\Desktop\Tareas\Codigos\C#\AverageNumber\bin\Debug\net6.0\AverageNumber.exe
+C:\Users\ANDREA\Desktop\Tareas\Codigos\C#\AverageNumber\bin\Debug\net6.0\AverageNumber.deps.json
+C:\Users\ANDREA\Desktop\Tareas\Codigos\C#\AverageNumber\bin\Debug\net6.0\AverageNumber.runtimeconfig.json
+C:\Users\ANDREA\Desktop\Tareas\Codigos\C#\AverageNumber\bin\Debug\net6.0\AverageNumber.dll
+C:\Users\ANDREA\Desktop\Tareas\Codigos\C#\AverageNumber\bin\Debug\net6.0\AverageNumber.pdb
+C:\Users\ANDREA\Desktop\Tareas\Codigos\C#\AverageNumber\obj\Debug\net6.0\AverageNumber.csproj.AssemblyReference.cache
+C:\Users\ANDREA\Desktop\Tareas\Codigos\C#\AverageNumber\obj\Debug\net6.0\AverageNumber.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ANDREA\Desktop\Tareas\Codigos\C#\AverageNumber\obj\Debug\net6.0\AverageNumber.AssemblyInfoInputs.cache
+C:\Users\ANDREA\Desktop\Tareas\Codigos\C#\AverageNumber\obj\Debug\net6.0\AverageNumber.AssemblyInfo.cs
+C:\Users\ANDREA\Desktop\Tareas\Codigos\C#\AverageNumber\obj\Debug\net6.0\AverageNumber.csproj.CoreCompileInputs.cache
+C:\Users\ANDREA\Desktop\Tareas\Codigos\C#\AverageNumber\obj\Debug\net6.0\AverageNumber.dll
+C:\Users\ANDREA\Desktop\Tareas\Codigos\C#\AverageNumber\obj\Debug\net6.0\refint\AverageNumber.dll
+C:\Users\ANDREA\Desktop\Tareas\Codigos\C#\AverageNumber\obj\Debug\net6.0\AverageNumber.pdb
+C:\Users\ANDREA\Desktop\Tareas\Codigos\C#\AverageNumber\obj\Debug\net6.0\AverageNumber.genruntimeconfig.cache
+C:\Users\ANDREA\Desktop\Tareas\Codigos\C#\AverageNumber\obj\Debug\net6.0\ref\AverageNumber.dll
